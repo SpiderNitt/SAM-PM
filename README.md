@@ -3,7 +3,7 @@
 
 ## Installation
 
-The current code was written and tested on top of [```pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime```](https://hub.docker.com/layers/pytorch/pytorch/2.1.2-cuda12.1-cudnn8-runtime/images/sha256:3387e598cb94fc248d82e712a65b10931a990cea3a2e76362ca30d135f565de4) docker. To install the dependencies, run the following:
+The current code was written and tested on top of [```pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel```]([https://hub.docker.com/layers/pytorch/pytorch/2.1.2-cuda12.1-cudnn8-runtime/images/sha256:3387e598cb94fc248d82e712a65b10931a990cea3a2e76362ca30d135f565de4](https://hub.docker.com/layers/pytorch/pytorch/2.0.1-cuda11.7-cudnn8-devel/images/sha256-4f66166dd757752a6a6a9284686b4078e92337cd9d12d2e14d2d46274dfa9048)) docker. To install the dependencies, run the following:
 ```sh
 pip install -r requirements.txt
 ```
