@@ -1,5 +1,21 @@
-# SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention
 
+<div align="center">
+
+<samp>
+
+<h2> SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention </h1>
+
+<h4> Muhammad Nawfal Meeran, Gokul Adethya T*, Bhanu Pratyush Mantha* </h3>
+
+</samp>   
+
+---
+| **[[```arXiv```](<https://arxiv.org/abs/2406.05802>)]** | **[[```Paper```](<https://openaccess.thecvf.com/content/CVPR2024W/PVUW/html/Meeran_SAM-PM_Enhancing_Video_Camouflaged_Object_Detection_using_Spatio-Temporal_Attention_CVPRW_2024_paper.html>)]** |     
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024
+
+</div>     
+
+---
 
 ## Installation
 
@@ -63,3 +79,19 @@ Run the following Matlab scripts:
 main_CAD.m
 main_MoCA.m
 ```
+
+
+## Citation
+```bibtex
+@InProceedings{Meeran_2024_CVPR,
+    author    = {Meeran, Muhammad Nawfal and T, Gokul Adethya and Mantha, Bhanu Pratyush},
+    title     = {SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {1857-1866}
+}
+```
+
+
+
